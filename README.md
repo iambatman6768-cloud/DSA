@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iambatman6768-cloud/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -67,4 +68,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
