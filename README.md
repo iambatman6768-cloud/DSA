@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iambatman6768-cloud/DSA/tree/master/0001-two-sum) |
 | [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,16 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
