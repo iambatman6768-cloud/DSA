@@ -16,6 +16,7 @@
 | [0007-reverse-integer](https://github.com/iambatman6768-cloud/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/iambatman6768-cloud/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/iambatman6768-cloud/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iambatman6768-cloud/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -38,8 +39,14 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iambatman6768-cloud/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iambatman6768-cloud/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
