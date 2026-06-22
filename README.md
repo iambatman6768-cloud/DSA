@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iambatman6768-cloud/DSA/tree/master/0001-two-sum) |
+| [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/iambatman6768-cloud/DSA/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
