@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/iambatman6768-cloud/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/iambatman6768-cloud/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -81,4 +82,5 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/iambatman6768-cloud/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
