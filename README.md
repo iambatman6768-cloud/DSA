@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iambatman6768-cloud/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -60,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -71,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iambatman6768-cloud/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
