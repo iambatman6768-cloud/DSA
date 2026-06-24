@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/iambatman6768-cloud/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/iambatman6768-cloud/DSA/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/iambatman6768-cloud/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -17,11 +18,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iambatman6768-cloud/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iambatman6768-cloud/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/iambatman6768-cloud/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iambatman6768-cloud/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/iambatman6768-cloud/DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iambatman6768-cloud/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -34,6 +37,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/iambatman6768-cloud/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/iambatman6768-cloud/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +68,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -83,6 +88,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iambatman6768-cloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/iambatman6768-cloud/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
