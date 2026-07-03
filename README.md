@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iambatman6768-cloud/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/iambatman6768-cloud/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/iambatman6768-cloud/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iambatman6768-cloud/DSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/iambatman6768-cloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/iambatman6768-cloud/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -95,5 +97,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/iambatman6768-cloud/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iambatman6768-cloud/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
